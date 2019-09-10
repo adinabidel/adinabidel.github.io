@@ -4,6 +4,12 @@ body {
   font-family: "Helvetica", "Arial", sans-serif;
   line-height: 1.5;
   padding: 30px 20px;
+  text-align: center;
+}
+
+a {
+  color: #D54285;
+  text-decoration: none;
 }
 
 h1 {
