@@ -26,7 +26,7 @@ function draw() {
   ellipse(mouseX,150,400,400);
 
   strokeWeight(1);
-  fill(100,0,50, 250);
+  fill(100,60,250, 155);
   ellipse(mouseX + 20,mouseY + 20,60,60);
 
 }
